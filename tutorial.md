@@ -1,3 +1,6 @@
+HUHU
+
+
 # Introduction to git
 
 Welcome to this introduction to git! We'll have a look at some basic commands to get you covered.
